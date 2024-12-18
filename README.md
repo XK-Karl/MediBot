@@ -142,7 +142,7 @@ python app.py
 
 1. 克隆项目
 ```bash
-git clone https://github.com/username/medibot.git
+git clone https://github.com/XK-Karl/MediBot.git
 cd medibot
 ```
 
