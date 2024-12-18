@@ -1,0 +1,18 @@
+# 克隆刚创建的仓库
+git clone https://github.com/XK-Karl/MediBot.git
+
+# 进入仓库目录
+cd MediBot
+
+# 创建README.md文件
+echo "# 项目标题" > README.md
+echo "项目描述" >> README.md
+
+# 将README.md文件添加到本地仓库
+git add README.md
+
+# 提交更改
+git commit -m "ADD README.md"
+
+# 将更改推送到GitHub仓库
+git push -u origin master
