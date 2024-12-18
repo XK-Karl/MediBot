@@ -196,4 +196,4 @@ docker-compose ps
 
 - 项目维护者：[肖楷]
 - Email：[3244801946@qq.com]
-- 项目主页：[GitHub Repository URL]
+- 项目主页：[GitHub https://github.com/XK-Karl/MediBot URL]
